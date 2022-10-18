@@ -1,0 +1,13 @@
+.img {
+  width: 230px;
+}
+
+.image-lists {
+  list-style: none;
+}
+
+@media screen and (max-width: 768px) {
+  .img {
+    width: 170px;
+  }
+}

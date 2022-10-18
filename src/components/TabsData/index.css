@@ -1,0 +1,22 @@
+.tabs-item {
+  list-style: none;
+  margin-right: 20px;
+}
+
+.tabs {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.active-border {
+  border-bottom: 1px solid #fec653;
+}
+
+.btn {
+  background: none;
+  outline: none;
+  border: none;
+}
